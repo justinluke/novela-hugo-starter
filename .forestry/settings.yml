@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url: 
+webhook_url: https://hooks.slack.com/services/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
 sections:
 - type: heading
   label: Content
